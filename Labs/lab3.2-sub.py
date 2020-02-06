@@ -1,4 +1,4 @@
-#Write a program that reads	in	two	numbers	and	
+#Write a program that reads	in two numbers and	
 # subracts the first one from the second one. 
 
 #Program to substract one number from another.
