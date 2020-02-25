@@ -22,6 +22,7 @@ print("The square root of", str(float_number) + " is approx.", str(round(sqrt(fl
 
 
 #Ref.
+#https://www.w3schools.com/python/python_functions.asp
 #https://stackoverflow.com/questions/9595135/how-do-i-calculate-square-root-in-python
 #https://stackoverflow.com/questions/20811208/newton-s-method-for-finding-square-roots-in-python
 #https://hackernoon.com/calculating-the-square-root-of-a-number-using-the-newton-raphson-method-a-how-to-guide-yr4e32zo
