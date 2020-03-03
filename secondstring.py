@@ -1,3 +1,5 @@
+#Aine Nic Dhonnacha
+
 # Weekly task 3
 # Write a program that takes asks a user to input a string
 # and outputs every second letter in reverse order. 
