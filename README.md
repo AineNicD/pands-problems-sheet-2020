@@ -4,8 +4,8 @@ This Repository contains the weekly tasks given in the Programing and Scrpiting 
 
 ## Built with
 
-[Anaconda](https://www.anaconda.com/)
-[Cmder](https://cmder.net/)
+[Anaconda](https://www.anaconda.com/), 
+[Cmder](https://cmder.net/), 
 [Visual Studio Code](https://code.visualstudio.com/)
 
 
@@ -67,13 +67,17 @@ $ python es.py moby-dick.txt
 
 
 
-##References:
+## References:
 As I am new to programming. Most of the tasks solutions involve a good bit of help from google, I reference sources at the botton of each code, here is a list of frequent places I go for help researching how to do my codes. 
 
-Lectures by Lecturers Ian McLoughlin and Andrew Beatty on moodle.
-[A whirlwind tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/). 
-[Stack overflow](https://stackoverflow.com/).
-[W3schools](https://www.w3schools.com/python/).
+Lectures by Lecturers Ian McLoughlin and Andrew Beatty on moodle., 
+
+[A whirlwind tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)., 
+
+[Stack overflow](https://stackoverflow.com/)., 
+
+[W3schools](https://www.w3schools.com/python/)., 
+
 [The Python Turorial Guide](https://docs.python.org/3/tutorial/).
 
 
