@@ -19,3 +19,8 @@ reverse_sentence = user_input[::-1]
 
 #outputs every second letter in reverse order
 print(reverse_sentence[::2])
+
+
+#references;
+#https://www.geeksforgeeks.org/reverse-string-python-5-different-ways/
+#https://stackoverflow.com/questions/931092/reverse-a-string-in-python
