@@ -68,11 +68,11 @@ $ python es.py moby-dick.txt
 
 
 ## References:
-As I am new to programming. Most of my task solutions involve a good bit of help from google, I reference sources at the botton of each code, here is a list of frequent places I go for help researching how to do my codes. 
+I reference sources at the botton of each code, here is a list of frequent places I go for help researching how to do my codes. 
 
 Lectures by Lecturers Ian McLoughlin and Andrew Beatty on moodle. 
 
-[A whirlwind tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/). 
+[A whirlwind tour of Python by Jake VanderPlas](https://jakevdp.github.io/WhirlwindTourOfPython/). 
 
 [Stack overflow](https://stackoverflow.com/).
 
