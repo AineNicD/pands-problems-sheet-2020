@@ -9,21 +9,30 @@
 #The square root of 14.5 is approx. 3.8.
 
 
+#Takes a number input from user
+float_number = float(input("Please Enter a positive number   "))
+print("The number you entered is  : " , float_number)
 
-#Takes a floating number input from user:
-float_number = float(input("Please enter a positive number:   "))
-print (float_number)
-
-#function with the name squrt, which takes one argument and returns its
-#approxamite square root
-def sqrt(x):
-    squareroot = (x ** (1.0/2))
+#function with the name sqrt, which takes one argument and returns its
+#approximate square root.                       
+def sqrt(number):
+    squareroot = (number ** (0.5))
     return squareroot
 
-print("The square root of", str(float_number) + " is approx.", str(round(sqrt(float_number), 1)))
+#Using Newtons method to calculate square root
+def newtonSqrt(numberIn, times = 10):
+    guess = numberIn * 0.5
+    for i in range(times):
+        nextGuess = (guess + numberIn/guess) * 0.5
+        guess = nextGuess
+    return nextGuess
+
+print("The square root of ",str(float_number) + " is  approx. ",  str(round(sqrt(float_number),1)))
+print("The Newton Method square root of  ", str(float_number) + " is  approx. ",newtonSqrt(float_number))
 
 
 #Ref.
+#https://runestone.academy/runestone/books/published/thinkcspy/MoreAboutIteration/NewtonsMethod.html
 #https://www.w3schools.com/python/python_functions.asp
 #https://stackoverflow.com/questions/9595135/how-do-i-calculate-square-root-in-python
 #https://stackoverflow.com/questions/20811208/newton-s-method-for-finding-square-roots-in-python
