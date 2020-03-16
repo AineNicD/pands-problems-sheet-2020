@@ -64,6 +64,10 @@ Write a program that reads in a text file and outputs the number of e's it conta
 $ python es.py moby-dick.txt
 116960
 
+### Weekly task 8
+
+Write a program that displays a plot of the functions 
+f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes.
 
 
 
