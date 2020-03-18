@@ -46,6 +46,12 @@ plt.plot(x, h1, 'y', label="x3")
 #add a legend to plot
 plt.legend()
 
+#add title
+plt.title('f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] ', fontsize=18)
+
+#show the plot
+plt.show()
+
 #ref: Moodle Course video on plots which is very good and gave a solid understanding of how to start creating plots
 #ref: https://numpy.org/
 #ref: https://matplotlib.org/api/pyplot_summary.html
