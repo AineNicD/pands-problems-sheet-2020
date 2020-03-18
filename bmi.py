@@ -21,3 +21,6 @@ print("----------------------------------")
 print("Body Mass Index is : ",decimal_places)
 
 print("----------------------------------")
+
+
+#ref: https://www.includehelp.com/python/bmi-body-mass-index-calculator.aspx
