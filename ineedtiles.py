@@ -9,3 +9,6 @@ needed = area * 1.05
 
 print("you need", needed, "tiles in metres squared.")
 
+
+
+ref: Ian McLoughlin
