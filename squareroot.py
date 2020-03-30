@@ -13,12 +13,8 @@
 float_number = float(input("Please Enter a positive number   "))
 print("The number you entered is  : " , float_number)
 
-#function with the name sqrt, which takes one argument and returns its
-#approximate square root.                       
-def sqrt(number):
-    squareroot = (number ** (0.5))
-    return squareroot
 
+#ref: https://runestone.academy/runestone/books/published/thinkcspy/MoreAboutIteration/NewtonsMethod.html
 #Using Newtons method to calculate square root
 def newtonSqrt(numberIn, times = 10):
     guess = numberIn * 0.5
@@ -27,11 +23,10 @@ def newtonSqrt(numberIn, times = 10):
         guess = nextGuess
     return nextGuess
 
-print("The square root of ",str(float_number) + " is  approx. ",  str(round(sqrt(float_number),1)))
-print("The Newton Method square root of  ", str(float_number) + " is  approx. ",newtonSqrt(float_number))
+print("The square root of ",str(float_number) + " is  approx. ",  str(round(newtonSqrt(float_number),1)))
 
 
-#Ref.
+#References; 
 #https://runestone.academy/runestone/books/published/thinkcspy/MoreAboutIteration/NewtonsMethod.html
 #https://www.w3schools.com/python/python_functions.asp
 #https://stackoverflow.com/questions/9595135/how-do-i-calculate-square-root-in-python
