@@ -1,8 +1,9 @@
 #Aine Nic Dhonnacha
+#Weekly task 6
 
-#Write a program that takes a positive floating-point number as input 
+#A program that takes a positive floating-point number as input 
 #and outputs an approximation of its square root. 
-#You should create a function called sqrt that does this.
+#Created a function called sqrt that does this.
 
 #$ python squareroot.py
 #Please enter a positive number: 14.5
@@ -16,14 +17,14 @@ print("The number you entered is  : " , float_number)
 
 #ref: https://runestone.academy/runestone/books/published/thinkcspy/MoreAboutIteration/NewtonsMethod.html
 #Using Newtons method to calculate square root
-def newtonSqrt(numberIn, times = 10):
+def Sqrt(numberIn, times = 10):
     guess = numberIn * 0.5
     for i in range(times):
         nextGuess = (guess + numberIn/guess) * 0.5
         guess = nextGuess
     return nextGuess
 
-print("The square root of ",str(float_number) + " is  approx. ",  str(round(newtonSqrt(float_number),1)))
+print("The square root of ",str(float_number) + " is  approx. ",  str(round(Sqrt(float_number),1)))
 
 
 #References; 
