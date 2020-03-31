@@ -1,6 +1,7 @@
+#Aine Nic Dhonnacha
 # Weekly task 5
 
-#Write a program that outputs whether or not today is a weekday. 
+#A program that outputs whether or not today is a weekday. 
 # An example of running this program on a Thursday is given below.
 #$ python weekday.py
 #Yes, unfortunately today is a weekday.
