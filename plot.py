@@ -1,5 +1,7 @@
+#Aine Nic Dhonnacha
 #Weekly task 8
-#Write a program that displays a plot of the functions 
+
+#A program that displays a plot of the functions 
 #f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes.
 
 #Type ipython into command line.
@@ -52,8 +54,10 @@ plt.title('f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] ', fontsize=18)
 #show the plot
 plt.show()
 
-#ref: Moodle Course video on plots which is very good and gave a solid understanding of how to start creating plots
-#ref: https://numpy.org/
-#ref: https://matplotlib.org/api/pyplot_summary.html
-#ref: https://realpython.com/python-matplotlib-guide/
+
+# References;
+# Moodle Course video on plots which is very good and gave a solid understanding of how to start creating plots
+# https://numpy.org/
+# https://matplotlib.org/api/pyplot_summary.html
+# https://realpython.com/python-matplotlib-guide/
 
