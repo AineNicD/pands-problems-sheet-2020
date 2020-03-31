@@ -22,5 +22,6 @@ print("Body Mass Index is : ",decimal_places)
 
 print("----------------------------------")
 
-
-#ref: https://www.includehelp.com/python/bmi-body-mass-index-calculator.aspx
+#references:
+#https://www.includehelp.com/python/bmi-body-mass-index-calculator.aspx
+#https://www.knowledgehut.com/blog/programming/python-rounding-numbers
