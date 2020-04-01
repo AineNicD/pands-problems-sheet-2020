@@ -12,10 +12,15 @@ import sys
 #read in UTF-8 which the mobydick text is in(previous code was producing an error at a character in the program)
 #Unicode has more characters. 
 
+#takes in the name of a file as first argument, second argument is encoding type
 with open(sys.argv[1], encoding="utf8") as f:
+  
+  #reads the document and stores it in variable called text.
   text = f.read()
+  #counts the amount of e's in the document and stores them in variable called countE.
   countE = text.count("e")
     
+  #displays the quantity of e's in the document. 
   print(countE)
 
 
