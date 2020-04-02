@@ -80,13 +80,13 @@ The square root of 14.5 is approx. 3.8.
 ~~~
 
 Solution: On my first attempt, my program calculated the square root but had not used the Newtons algorithm as suggested in the announcements. 
-I found many articles online about the Newtons Algorithm, it was challenging to understand until I came across [Roundstone academy](https://runestone.academy/runestone/books/published/thinkcspy/MoreAboutIteration/NewtonsMethod.html). This is a great resource.
+I found many articles online about the Newtons Algorithm, it was challenging to understand until I came across [Roundstone academy](https://runestone.academy/runestone/books/published/thinkcspy/MoreAboutIteration/NewtonsMethod.html). 
 ### squareroot2.py
 To further explore the second piece of code I wrote, I added extra lines within the loop to test the values produced. 
 
 ~~~python
-print(i)     --- is the iterator (loop) so that I can test the current loop 
-print(guess) --- this is the guess in the current loop
+print(i)     - is the iterator (loop) so that I can test the current loop 
+print(guess) - this is the guess in the current loop
 ~~~
 with them displayed, I got a better grasp of how this code works. 
 
