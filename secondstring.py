@@ -18,7 +18,7 @@ print(user_input)
 #reverses the sentence
 reverse_sentence = user_input[::-1] 	                                                                        
 
-#outputs every second letter in reverse order
+#outputs every second letter 
 print(reverse_sentence[::2])
 
 
