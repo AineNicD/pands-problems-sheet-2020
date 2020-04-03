@@ -30,3 +30,6 @@ currentBook [ "ISBN"] = "9788498387568"
 print ("the current book has these values:")
 for value in currentBook.values():
     print( " => {} " .format(value))
+    
+    
+#Reference: Andrew Beatty tutorial on moodle
