@@ -11,3 +11,6 @@ answer = int(x/y)
 remainder = x%y
 
 print(" {} divided by {} is {} with remainder {}" .format ( x, y, answer,remainder))
+
+
+#Reference: Andrew Beatty tutorial on moodle
