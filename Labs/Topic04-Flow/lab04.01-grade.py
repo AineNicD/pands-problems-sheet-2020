@@ -16,3 +16,6 @@ elif percentage < 70: # between 60 and 69
     print ("Merit2") 
 else: #the only option left is between 70 and 100
     print ("Distinction")
+    
+    
+#Reference: Andrew Beatty tutorial on moodle
