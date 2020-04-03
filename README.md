@@ -8,7 +8,7 @@ This Repository contains the weekly tasks given in the Programing and Scrpiting 
 [Cmder](https://cmder.net/) and
 [Visual Studio Code](https://code.visualstudio.com/)
 
-## How to download the Pands-Problem-Sheet-2020 repository
+## How to download the pands-problem-sheet-2020 repository
 
 1. Go to Github web site - User Account: AineNicD
 
@@ -87,7 +87,10 @@ It is the weekend, yay!
 ~~~
 
 #### Solution: 
-I imported the python calendar for this task, in Python the days of the week are 0-6 and begin with Monday as number 0. Also imported date and time. [Stackoverflow]( https://stackoverflow.com/questions/45870820/how-to-check-if-today-is-monday-in-python) had a great code for picking out the day of the week. 
+I imported the python calendar for this task, in Python the days of the week are 0-6 and begin with Monday as number 0. Also imported date and time. [Stackoverflow]( https://stackoverflow.com/questions/45870820/how-to-check-if-today-is-monday-in-python) had a great code for picking out the day of the week it is.
+~~~
+datetime.datetime.today().weekday()
+~~~
 Used if statement for if weekDay < 5 to print if it is a weekday and else to print it is the weekend. 
 
 ### Weekly task 6 - squareroot.py
@@ -99,11 +102,10 @@ Please enter a positive number: 14.5
 The square root of 14.5 is approx. 3.8.
 ~~~
 #### Solution: 
-On my first attempt, my program calculated the square root but had not used the Newtons algorithm as suggested in the announcements. 
+On my first attempt, my program calculated the square root but had not used the Newtons algorithm as suggested in the course announcements. 
 I found many articles online about the Newtons Algorithm, it was challenging to understand until I came across [Roundstone academy](https://runestone.academy/runestone/books/published/thinkcspy/MoreAboutIteration/NewtonsMethod.html). 
 ### squareroot2.py
 To further explore the second piece of code I wrote, I added extra lines within the loop to test the values produced. 
-
 ~~~python
 print(i)     - is the iterator (loop) so that I can test the current loop 
 print(guess) - this is the guess in the current loop
