@@ -18,3 +18,6 @@ while Firstname != "":
 print ("here are the students you entered:")
 for currentStudent in students:
     print ("{} {}".format(currentStudent["Firstname"],currentStudent ["lastname"]))
+    
+  
+#Reference: Andrew Beatty tutorial on moodle
