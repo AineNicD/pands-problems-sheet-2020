@@ -24,3 +24,6 @@ print ("{} random numbers\t {}".format(howMany,numbers))
 topOnes = numbers.copy()
 topOnes.sort(reverse = True)
 print ("The top {} are \t\t {}".format(topHowMany,topOnes[0: topHowMany]))
+
+
+#Reference: Andrew Beatty tutorial on moodle
