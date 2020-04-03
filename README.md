@@ -5,7 +5,7 @@ This Repository contains the weekly tasks given in the Programing and Scrpiting 
 ## Built with
 
 [Anaconda](https://www.anaconda.com/), 
-[Cmder](https://cmder.net/), 
+[Cmder](https://cmder.net/) and
 [Visual Studio Code](https://code.visualstudio.com/)
 
 ## How to download the Pands-Problem-Sheet-2020 repository
@@ -20,7 +20,7 @@ This Repository contains the weekly tasks given in the Programing and Scrpiting 
 
 ## How to run the code
 
-1. Make sure you have [Python](https://www.python.org/downloads/) installed or [Anaconda](https://www.anaconda.com/distribution/).
+1. Install [Anaconda](https://www.anaconda.com/distribution/), a free and open-source distribution of the Python programming language.
 
 2. Install [Cmder console emulator](https://cmder.net/), a pre-configured software package that provides you with a great terminal emulator.
 
