@@ -1,13 +1,10 @@
 #lab sheet 5 task 2
 
-#Create a tuple that stores the months of the year, from that tuple create
-#another tuple with just the summer months (May, June, July), print out the
-#summer months one at a time.
+#A program that create a tuple that stores the months of the year.
+#From that tuple it creates another tuple with just the summer months
+#(May, June, July)
+#ref: Code from datastructurs.pdf document from course.
 
-#$Python
-#May
-#June
-#july
 
 months =("January",
 "February",
@@ -22,6 +19,9 @@ months =("January",
 "November",
 "December"
 )
+
+#months start from 5th month and ends at 7th month to display summer months
+#starts at position 4 up to (but not including position 7 in tuple
 
 summer = months[4:7]
 for month in summer:
