@@ -132,7 +132,7 @@ f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes.
 ![](plot8.png)
 
 
-##### Solution: 
+#### Solution: 
 For this task I Used ipython which came with Anaconda, %logstart logs everything done into ipython_log file. Handy for editing to produce the python script. When working with plots, import numpy. Numpy provides a data structure when working with numerical data. Also import Matplotlib, it helps create plots. .arange() can take 1, 2 or 3 numbers as input and will provide you with lists based on the numbers that you have input as arguments. Pythons range() command will only give integers, numpys arrange () command gives float. 
 The moodle video "How do I plot in python" by Ian Mc Loughlin was my main source for this task and a great help for learning how to do my first plot.
 
