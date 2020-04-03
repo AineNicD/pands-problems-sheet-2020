@@ -21,3 +21,5 @@ for value in numbers:
 # I want average to be a float
 average = float(sum(numbers)) / len(numbers)
 print ("The average is {}".format(average))
+
+#Reference: Andrew Beatty tutorial on moodle
