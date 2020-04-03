@@ -7,7 +7,8 @@
 
 import sys
 
-#from command line 
+#from command line type python escmd.py and the text want to read from (moby-dick.txt)
+
 #program reads a file called mobydick.txt and outputs the number of e's in the document
 #read in UTF-8 which the mobydick text is in(previous code was producing an error at a character in the program)
 #Unicode has more characters. 
