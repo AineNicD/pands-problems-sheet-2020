@@ -8,6 +8,24 @@ This Repository contains the weekly tasks given in the Programing and Scrpiting 
 [Cmder](https://cmder.net/), 
 [Visual Studio Code](https://code.visualstudio.com/)
 
+## How to download the Pands-Problem-Sheet-2020 repository
+
+1. Go to Github web site - User Account: AineNicD
+
+(https://github.com/AineNicD)
+
+2. Click on the download button, and copy/paste the link:
+
+https://github.com/AineNicD/pands-problems-sheet-2020.git
+
+## How to run the code
+
+1. Make sure you have [Python](https://www.python.org/downloads/) installed or [Anaconda](https://www.anaconda.com/distribution/).
+
+2. Install [Cmder console emulator](https://cmder.net/), a pre-configured software package that provides you with a great terminal emulator.
+
+3. Download [Visual Studio Code](https://code.visualstudio.com/), this source-code editor will assist you in saving annd editing your code.
+
 
 ## The Tasks 
 
@@ -125,15 +143,15 @@ In this folder are optional lab sheets given by Lectuer Andrew Beatty, he talked
 ## References:
 I reference sources at the botton of each code, here is a list of frequent places I go for help researching how to do my codes. 
 
-Lectures by Lecturers Ian McLoughlin and Andrew Beatty on moodle. 
+1. Lectures by Lecturers Ian McLoughlin and Andrew Beatty on moodle. 
 
-[A whirlwind tour of Python by Jake VanderPlas](https://jakevdp.github.io/WhirlwindTourOfPython/).
+2. [A whirlwind tour of Python by Jake VanderPlas](https://jakevdp.github.io/WhirlwindTourOfPython/).
 
-[Stack overflow](https://stackoverflow.com/).
+3. [Stack overflow](https://stackoverflow.com/).
 
-[W3schools](https://www.w3schools.com/python/).
+4. [W3schools](https://www.w3schools.com/python/).
 
-[The Python Turorial Guide](https://docs.python.org/3/tutorial/).
+5. [The Python Turorial Guide](https://docs.python.org/3/tutorial/).
 
 ## Author
 Aine Nic Dhonnacha
