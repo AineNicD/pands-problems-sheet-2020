@@ -14,3 +14,7 @@ y = int(input( "Enter second number:"))
 answer = x - y
 
 print( "{} minus {} is {} " .format(x, y, answer))
+
+
+
+#Reference: Andrew Beatty tutorial on moodle
