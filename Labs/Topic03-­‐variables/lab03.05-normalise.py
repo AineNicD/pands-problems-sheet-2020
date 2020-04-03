@@ -11,3 +11,6 @@ LengthofNormalisedString = len (normalisedString)
 
 print ("That String normalised is : {} ".format (normalisedString) )
 print ("We reduced the input string from {} to {} characters" .format (LengthofRawString, LengthofNormalisedString))
+
+
+#Reference: Andrew Beatty tutorial on moodle
