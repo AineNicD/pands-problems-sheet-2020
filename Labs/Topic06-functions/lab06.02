@@ -18,4 +18,4 @@ choice = input("Type one letter (a/v/q):").strip()
     #test the function 
 choice = displayMenu() print("you chose {}".format(choice)
 
-# Reference: Andrew Beatty Topic06-functions
+# Reference:Andrew Beatty Topic06-functions
