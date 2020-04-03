@@ -13,3 +13,6 @@ fruits = ['Apple', 'Pear', 'Orange', 'Bananna']
 fruit = random.choice(fruits)
 
 print( "A Random Fruit: {}" .format(fruit))
+
+
+#Reference: Andrew Beatty tutorial on moodle
