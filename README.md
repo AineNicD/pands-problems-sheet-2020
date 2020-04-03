@@ -122,8 +122,7 @@ $ python es.py moby-dick.txt
 ~~~
 #### Solution: 
 For this task I imported [sys]( https://docs.python.org/2/library/sys.html); my code was producing an error until I told it to read in Unicode(UTF-8) as the second argument from the command line.
-the first argument took in the file name. 
-The program reads in the text of the file name entered in the command line using read() function, it then uses count("e") to count the amount of e's within the document. using print() it displays the amount of e's
+the first argument took in the file name. The program reads in the text of the file name entered in the command line using read() function, it then uses count("e") to count the amount of e's within the document. Using print() it displays the amount of e's. I type "python escmd.py moby-dick.txt" into the command line to run the code. 
 
 ### Weekly task 8 - plot.py
 #### Task:
