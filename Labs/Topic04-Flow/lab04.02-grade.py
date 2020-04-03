@@ -1,7 +1,6 @@
 # Following task lab04.01, 69.5 gets rounded to 70
 # This program reads in a students percentage
 # and prints out the corresponding grade 
-# #https://www.programiz.com/python-programming/methods/built-in/round
 
 
 percentage = float(input("Enter the percentage: "))
@@ -20,3 +19,8 @@ elif percentage < 70: # between 60 and 69
     print ("Merit2") 
 else: #the only option left is between 70 and 100
     print ("Distinction")
+    
+    
+#references: 
+# Andrew Beatty tutorial on moodle
+# #https://www.programiz.com/python-programming/methods/built-in/round
