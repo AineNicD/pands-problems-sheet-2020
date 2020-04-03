@@ -113,15 +113,17 @@ f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes.
 ![](plot8.png)
 
 
+Solution: For this task I Used ipython which came with Anaconda, %logstart logs everything done into ipython_log file. Handy for editing to produce the python script. When working with plots, import numpy. Numpy provides a data structure when working with numerical data. Also import Matplotlib, it helps create plots. .arange() can take 1, 2 or 3 numbers as input and will provide you with lists based on the numbers that you have input as arguments. Pythons range() command will only give integers, numpys arrange () command gives float. 
+The moodle video "How do I plot in python" by Ian Mc Loughlin was my main source for this task and a great help for learning how to do my first plot.
 
 
-Solution: When working with plots, import numpy. Numpy provides a data structure when working with numerical data. Also import Matplotlib, it helps create plots when working with numberical data. .arange() can take 1, 2 or 3 numbers as input and will provide you with lists based on the numbers that you have input as arguments. Pythons range() command will only give integers, numpys arrange () command gives float. 
+### Optional Lab Sheet - labs
 
+In this folder are optional lab sheets given by Lectuer Andrew Beatty, he talked us through the solutions in tutorials and he is my main source for these code solutions. I reference any other sources at the bottom of each code. These labs are a great help in my journey to learn python code.
 
 
 ## References:
 I reference sources at the botton of each code, here is a list of frequent places I go for help researching how to do my codes. 
-
 
 Lectures by Lecturers Ian McLoughlin and Andrew Beatty on moodle. 
 
