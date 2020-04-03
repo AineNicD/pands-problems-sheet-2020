@@ -12,11 +12,11 @@ This Repository contains the weekly tasks given in the Programing and Scrpiting 
 
 1. Go to Github web site - User Account: AineNicD
 
-(https://github.com/AineNicD)
+   https://github.com/AineNicD
 
 2. Click on the download button, and copy/paste the link:
 
-https://github.com/AineNicD/pands-problems-sheet-2020.git
+   https://github.com/AineNicD/pands-problems-sheet-2020.git
 
 ## How to run the code
 
